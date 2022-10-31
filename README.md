@@ -3,4 +3,4 @@
 1. Un
 2. Deux
 
-[Lien]{google.com}
+[Lien]{http://google.com}
